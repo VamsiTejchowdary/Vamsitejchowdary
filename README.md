@@ -73,10 +73,13 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VamsiTejchowdary&repo=FoodieAlert&theme=radical" width="47%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VamsiTejchowdary&repo=careers-linq&theme=radical" width="33%"/>
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VamsiTejchowdary&repo=telugumoviesreviews&theme=radical" width="47%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VamsiTejchowdary&repo=FoodieAlert&theme=radical" width="33%"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VamsiTejchowdary&repo=telugumoviesreviews&theme=radical" width="33%"/>
   </a>
 </div>
 
